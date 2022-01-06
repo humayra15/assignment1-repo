@@ -4,7 +4,7 @@ margin: 0;
 }
 .mission-color{
    
-    color: palevioletred;
+    color: rgb(106, 171, 197);
     font-size: 55px;
     padding-right: 39%;
    
@@ -14,7 +14,7 @@ h2{
 }
 .half-width{
 width: 50%;
-padding-left: 7%;
+padding-left: 5%;
 }
 .half-width img{
     width: 75%;
@@ -27,26 +27,24 @@ padding-left: 7%;
 .link-button{
 
     text-decoration: none;
-    background-color: palevioletred;
+    background-color: rgb(106, 171, 197);
     color: white;
     padding: 13px 30px;
     border-radius: 7px;
     font-weight: 700;
 }
 .side-line{
-    border-left: 5px solid purple;
+    border-left: 5px solid rgb(47, 157, 201);
     height: 172px;
     border-radius: 7px;
     padding: 0px 15px 0px 15px;
-   
-    
 }
 h1{
     text-align: center;
     font-size: 45px;
 }
 .year-color{
-    color: palevioletred;
+    color: rgb(106, 171, 197);
     font-size: 45px;
 }
 
@@ -103,4 +101,24 @@ h1{
 .goals img{
 
     width: 45%;
+}
+.coding{
+    font-size: 35px;
+
+}
+.coding img{
+    width: 65%;
+    position: relative;
+}
+.develop{
+    padding-bottom: 60%;
+    font-size: 18px;
+}
+.button{
+
+    font-size: 15px;
+   
+}
+h3{
+    font-size: 35px;
 }
