@@ -122,3 +122,18 @@ h1{
 h3{
     font-size: 35px;
 }
+h4{
+    text-align: center;
+    font-size: 33px;
+}
+.footer{
+    color: white;
+    text-align: center;
+    background-color: slateblue;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer-color{
+    color: rgb(106, 171, 197);
+}
