@@ -6,10 +6,11 @@ margin: 0;
    
     color: palevioletred;
     font-size: 55px;
+    padding-right: 39%;
    
 }
 h2{
-    font-size: 59px;
+    font-size: 55px;
 }
 .half-width{
 width: 50%;
@@ -37,5 +38,69 @@ padding-left: 7%;
     height: 172px;
     border-radius: 7px;
     padding: 0px 15px 0px 15px;
+   
     
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+.year-color{
+    color: palevioletred;
+    font-size: 45px;
+}
+
+.flexible{
+   display: flex;
+   text-align: center;
+   width: auto;
+   justify-content: center;
+}
+.wrapper{
+
+    margin-top: 10%;
+   
+}
+.mission{
+    background-color: rgb(217, 242, 245);
+    margin: 5px;
+    margin-bottom: 100px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border-radius: 10%;
+    
+    
+}
+.vission{
+   
+    background-color: rgb(245, 224, 227);
+    margin: 5px;
+    margin-bottom: 100px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border-radius: 10%;
+}
+.goals{
+   
+    background-color: rgb(227, 240, 181);
+    margin: 5px;
+    margin-bottom: 100px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border-radius: 10%;
+}
+.mission img{
+
+    width: 45%;
+}
+.vission img{
+
+    width: 45%;
+}
+.goals img{
+
+    width: 45%;
 }
