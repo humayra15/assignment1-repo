@@ -1,0 +1,41 @@
+body{
+font-family: 'Bitter', serif;
+margin: 0;
+}
+.mission-color{
+   
+    color: palevioletred;
+    font-size: 55px;
+   
+}
+h2{
+    font-size: 59px;
+}
+.half-width{
+width: 50%;
+padding-left: 7%;
+}
+.half-width img{
+    width: 75%;
+}
+.flexible-container{
+
+    display: flex;
+    margin-bottom: 7%;
+}
+.link-button{
+
+    text-decoration: none;
+    background-color: palevioletred;
+    color: white;
+    padding: 13px 30px;
+    border-radius: 7px;
+    font-weight: 700;
+}
+.side-line{
+    border-left: 5px solid purple;
+    height: 172px;
+    border-radius: 7px;
+    padding: 0px 15px 0px 15px;
+    
+}
